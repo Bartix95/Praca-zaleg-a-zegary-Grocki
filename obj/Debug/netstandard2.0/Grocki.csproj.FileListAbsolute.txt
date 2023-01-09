@@ -1,0 +1,15 @@
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\Grocki.csproj.AssemblyReference.cache
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\Grocki.GeneratedMSBuildEditorConfig.editorconfig
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\Grocki.AssemblyInfoInputs.cache
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\Grocki.AssemblyInfo.cs
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\Grocki.csproj.CoreCompileInputs.cache
+D:\xamarinForms\Grocki\Grocki\Grocki\bin\Debug\netstandard2.0\Grocki.deps.json
+D:\xamarinForms\Grocki\Grocki\Grocki\bin\Debug\netstandard2.0\Grocki.dll
+D:\xamarinForms\Grocki\Grocki\Grocki\bin\Debug\netstandard2.0\Grocki.pdb
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\Grocki.dll
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\refint\Grocki.dll
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\Grocki.pdb
+D:\xamarinForms\Grocki\Grocki\Grocki\obj\Debug\netstandard2.0\ref\Grocki.dll

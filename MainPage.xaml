@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+    
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Grocki.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label x:Name="Label1" BackgroundColor="green" Grid.Row="0" Margin="0" Padding="0" Text="Czas UTC: " VerticalTextAlignment="Center" HorizontalTextAlignment="Center"></Label>
+        <Label x:Name="Label2" BackgroundColor="red" Grid.Row="1" Margin="0" Padding="0" TextColor="white" Text="Czas w Hong Kongu: " VerticalTextAlignment="Center" HorizontalTextAlignment="Center"></Label>
+        <Label x:Name="Label3" BackgroundColor="violet" Grid.Row="2" Margin="0" Padding="0" Text="Czas Lokalny: " VerticalTextAlignment="Center" HorizontalTextAlignment="Center"></Label>
+    </Grid>
+</ContentPage>
